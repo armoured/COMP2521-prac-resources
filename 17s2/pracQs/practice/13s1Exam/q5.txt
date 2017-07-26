@@ -1,0 +1,29 @@
+Question 5 ... COMP1927 13s1 Final Exam
+
+A.
+
+Operation             State of Queue after operation
+                      [highest priority ... lowest priority]
+
+initially             -
+PQueueJoin(PQ, 'X')   start -> X
+PQueueJoin(PQ, 'A')   start -> A X
+PQueueJoin(PQ, 'J')   start -> A J X
+PQueueLeave(PQ)       start-> J X
+PQueueJoin(PQ, 'K')   start -> J K X
+PQueueLeave(PQ)       start -> K X
+PQueueLeave(PQ)       start -> X
+
+
+B.
+
+Firstly a typedef of the type of value used would be useful.
+for example, we could typedef an int by saying typedef int Item.
+Once we have this item we can implement the queue/stack as a priority
+queue with our abstracted Item type. With this Item we would be able
+to write a compare function that determines which Item has a higher or
+lower value and based on that value decide which Item has more
+priority. The priority queue would have the same implementation
+as the stack or queue with functions such as join, leave, create
+and destroy but we will change the join function to account
+for the Item priority.

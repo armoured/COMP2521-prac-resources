@@ -1,0 +1,75 @@
+Question 8 ... COMP1927 13s1 Final Exam
+
+
+A.
+
+Draw the hash table as follows
+
+[i]   Content of hashTab[i]
+
+[0]   - 26 - 13
+[1]   -
+[2]   -
+[3]   - 3 - 16 - 29
+[4]   - 4
+[5]   -
+[6]   -
+[7]   - 7 - 20
+[8]   -
+[9]   -
+[10]  -
+[11]  -
+[12]  - 12 - 25
+
+
+
+B.
+
+Draw the hash table as follows
+
+[i]   Content of hashTab[i]
+
+[0]   - 26
+[1]   - 25
+[2]   - 13
+[3]   - 3
+[4]   - 16
+[5]   - 4
+[6]   - 29
+[7]   - 7 
+[8]   - 20
+[9]   -
+[10]  -
+[11]  -
+[12]  - 12
+
+
+C.
+
+Draw the hash table as follows
+
+[i]   Content of hashTab[i]
+
+[0]   - 26
+[1]   - 13
+[2]   - 25
+[3]   - 3
+[4]   - 4
+[5]   -
+[6]   -
+[7]   - 7
+[8]   - 16
+[9]   - 29
+[10]  - 20
+[11]  -
+[12]  - 12
+
+Draw linked lists as -> x -> y -> z
+
+
+D.
+
+Because of the use of h | *c, there is a chance
+of some calculations mapping to keys that have already been used
+in the hash, which then results in a collision. Therefore this method
+does not produce a unique key in all cases.

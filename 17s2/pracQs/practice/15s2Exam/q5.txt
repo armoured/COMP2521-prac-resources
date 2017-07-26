@@ -1,0 +1,32 @@
+COMP1927 15s2 Exam Question 5 (Binary Search Trees)
+
+A.
+
+3
+
+B.
+
+1, the search key would be 42, which is the root node. This is
+because it is the first node in the tree
+
+C.
+
+6, search keys are 51 and 33 because they are on the end of
+the longest branches in the tree
+
+D.
+
+4, search keys are 16 and 41 because they are on the end of the shortest
+branches in the tree
+
+E.
+
+The most infix node to the right of the root. that is 45 could replace 42. We would save 45 in an int, delete the node containing
+45 then set the root->val = 42. 
+
+F.
+
+root val = 20
+right child val =  42
+left child val = 9
+

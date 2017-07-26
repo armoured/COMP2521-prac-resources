@@ -1,0 +1,19 @@
+Question 6 ... COMP1927 13s1 Final Exam
+
+
+A.
+
+prefix: 8, 3, 10, 11, 22, 21, 30, 25, 35, 15
+infix: 3, 8, 10, 11, 15, 21, 22, 25, 30, 35
+level order: 15, 8, 30, 3, 10, 25, 35, 11, 22, 21
+postfix order: 
+
+B.
+
+Replace this with your answer
+
+
+C.
+
+Replace this with your answer
+

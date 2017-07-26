@@ -1,0 +1,33 @@
+Question 7 ... COMP1927 14s2 Final Exam
+
+
+A.  (after inserting 8 into 2-3-4 tree)
+
+root node vals: 12, 35, 60
+node that contains 8 vals: 1, 7, 8
+
+
+B.  (after inserting 42 into 2-3-4 tree)
+
+root node vals: 35
+node that contains 42 vals: 36, 42
+
+
+C.  (after inserting 8 into red-black tree)
+
+root node val: 35
+parent node of 8: 7
+
+
+D.  (after inserting 42 into red-black tree)
+
+root node val: 35
+parent node of 42: 36
+
+
+E.  (# representations of 2-3-4 nodes)
+
+Ways of representing a 2 node: 1 way, have two pointers, left and right
+ways of representing a 3 node: have 3 pointers left, middle, right or use
+an array or pointers from 0..2 indexes
+ways of representing a 4 node: use an array of pointers from 0..3 indexes, and specify what order it is

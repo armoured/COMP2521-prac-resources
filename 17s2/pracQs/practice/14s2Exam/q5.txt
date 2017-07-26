@@ -1,0 +1,42 @@
+Question 5 ... COMP1927 14s2 Final Exam
+
+A.  (hashing complexity)
+
+complexity: O(n)
+
+
+B.  (chaining)
+
+Min: 7 comparisons
+Max: 28 comparisons
+
+
+C.  (linear probing)
+
+After
+Inserting    [0]  [1]  [2]  [3]  [4]  [5]  [6]
+(initial)    --   --   --   --   --   --   --
+11           --   --   --   --   11   --   --
+21           21   --   --   --   --   --   --
+31           --   --   --   31   --   --   --
+32           --   --   --   --   32   --   --
+12           --   --   --   --   --   12   --
+22           --   22   --   --   --   --   --
+24           --   --   --   24   --   --   --
+Replace this by your answer
+
+
+D.  (double hashing)
+
+After
+Inserting    [0]  [1]  [2]  [3]  [4]  [5]  [6]
+(initial)    --   --   --   --   --   --   --
+11           --   --   --   --   11   --   --
+21           21   --   --   --   --   --   --
+31           --   --   --   31   --   --   --
+32           --   --   32   --   --   --   --
+12           --   --   --   --   --   12   --
+22           --   22   --   --   --   --   --
+24           --   --   --   --   24   --   --
+Replace this by your answer
+

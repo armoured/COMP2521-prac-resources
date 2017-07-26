@@ -1,0 +1,28 @@
+COMP1927 15s2 Exam Question 4 (Fury of Dracula)
+
+A.
+
+Castle Dracula
+
+B.
+
+City Unknown
+
+C.
+
+When a hunters health is <= 0
+
+D.
+
+Cadiz: road
+Madrid: road
+Santander: road
+Madrid: rail
+Santander: rail
+Saragossa: rail
+Alicante: rail
+
+E.
+
+None, dracula can reach all the locations connected by 1 edge distance
+as they all have road connections

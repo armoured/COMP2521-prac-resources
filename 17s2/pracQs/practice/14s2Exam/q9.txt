@@ -1,0 +1,25 @@
+Question 9 ... COMP1927 14s2 Final Exam
+
+
+A.  (gcc -o option)
+
+-o places the output of the compiled files to the specified file in this case called trav.
+Without -o, the compiled file defaults to being stored as a.out
+
+
+B.  (Graph.c -> Graph.o)
+
+gcc -c Graph.c
+
+
+C.  (break myFun)
+
+GDB would create a breakpoint at the function myFun.
+This would allow you to halt the program at that point
+and check what values variables contain
+
+
+D.  (Bonus: famous nerd)
+
+He invented the radix sort. Name: Jas Shepherd
+

@@ -1,0 +1,29 @@
+Question 7 ... COMP1927 13s1 Final Exam
+
+
+A.
+
+Show the nodes as follows ...
+
+Node   Contents of Node
+
+A      (7, 12, 17)
+B      (1, 3, 5)
+C      (10)
+D      (14, 15)
+
+add any other nodes here
+
+E      (21, 25, 29)
+
+B.
+
+red-black tree nodes are tagged with a colour either red or black.
+This helps to keep the tree balanced, improving the average search
+time to O(logn). Binary search tree nodes do not have this and instead
+have to be rebalanced by determining the difference between the depth
+of each branch
+
+C.
+
+Yes, every 2,3,4 tree can be converted into a red black tree

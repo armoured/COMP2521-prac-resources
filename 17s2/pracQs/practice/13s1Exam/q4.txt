@@ -1,0 +1,21 @@
+Question 4 ... COMP1927 13s1 Final Exam
+
+
+A.
+
+25 calls
+
+
+B.
+
+n^2 calls
+
+
+C.
+
+Complexity O(n^2)
+
+
+D.
+
+a[j] - a[min] < 0

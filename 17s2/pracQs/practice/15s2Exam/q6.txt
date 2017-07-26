@@ -1,0 +1,30 @@
+COMP1927 15s2 Exam Question 6 (Weighted DiGraphs)
+
+A.
+
+path   total weight
+A      0
+B      0.5
+G      0.7
+M      0.9
+N      0.13
+P      0.17
+Q      0.21
+V      0.25
+
+B.
+path   total weight
+V      0
+Q      0.4
+K      0.8
+J      0.12
+H      0.16
+G      0.19
+F      0.22
+A      0.31
+
+
+C.
+
+R cannot be reached
+

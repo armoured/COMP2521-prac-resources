@@ -1,0 +1,29 @@
+Question 4 ... COMP1927 14s2 Final Exam
+
+
+A.  (base cases)
+
+The basecases for this recursion are:
+
+if (lo > hi)
+if (lo == hi) && (key == a[lo] || key != a[lo])
+if (lo < hi) && (key == a[mid])
+
+
+B.  (#calls to bsearch for x == {4,9,12})
+
+i) 2 calls for x = 4
+ii) 4 calls for x = 9
+iii) 3 calls for x = 12
+
+
+C.  (min/max #calls for a[10])
+
+min calls: 1
+max calls: log 10
+
+
+D.  (min/max #calls for a[N])
+
+min calls: 1
+max calls: log N
